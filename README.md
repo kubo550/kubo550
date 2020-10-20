@@ -1,23 +1,19 @@
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, Typescript, HTML, CSS, SASS],
    technologies: {
+      tools : ["VSCode", "Atom", "P5 online editor"],
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React", "VanillaJS", "P5.js"],
+         css: ["Materialize", "Bulma", "Bootstrap"]
       },
       backEnd: {
-         java: ["Spring"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["Firebase","MongoDB", "mySQL", "SQLServer"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["i'm still in middle school, open for job opportunities"],
+   challenge: "Every day at least 1 project with Visual Studio Code",
 };
 ```
 
