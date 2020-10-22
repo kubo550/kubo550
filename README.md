@@ -4,11 +4,11 @@ const aboutMe = {
    technologies: {
       tools : ["VSCode", "Atom", "P5 online editor"],
       frontEnd: {
-         js: ["React", "VanillaJS", "P5.js"],
-         css: ["Materialize", "Bulma", "Bootstrap"]
+         js: ["React", "VanillaJS", "Gatsby","P5.js"],
+         css: ["Materialize", "Bulma",  "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", "Netlify"],
       },
       databases: ["Firebase","MongoDB", "mySQL", "SQLServer"],
    },
