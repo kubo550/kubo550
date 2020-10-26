@@ -1,11 +1,11 @@
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, SASS],
+   code: [Javascript, Typescript, HTML, CSS],
    technologies: {
-      tools : ["VSCode", "Atom", "P5 online editor"],
+      tools : ["Figma", "VSCode", "Atom" ],
       frontEnd: {
-         js: ["React", "VanillaJS", "Gatsby","P5.js"],
-         css: ["Materialize", "Bulma",  "Bootstrap"]
+         js: ["React", "VanillaJS", "Gatsby", "P5.js"],
+         css: ["SASS","Materialize", "Bulma", "Bootstrap"]
       },
       backEnd: {
          js: ["Node", "Express", "Netlify"],
@@ -16,7 +16,7 @@ const aboutMe = {
    challenge: "Every day at least 1 project with Visual Studio Code",
 };
 ```
-
+- 💬 Ask me about anything on my [messenger](https://www.messenger.com/t/acotamuwas)
 <!--
 **kubo550/kubo550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
