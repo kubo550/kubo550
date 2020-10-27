@@ -12,7 +12,7 @@ const aboutMe = {
       },
       databases: ["Firebase", "MongoDB", "mySQL", "SQLServer"],
    },
-   currentOccupation: ["i'm still in middle school, open for job opportunities"],
+   currentOccupation: ["I'm still in middle school, open for job opportunities"],
    challenge: "Every day at least 1 project with Visual Studio Code",
 };
 ```
