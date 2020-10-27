@@ -8,9 +8,9 @@ const aboutMe = {
          css: ["SASS","Materialize", "Bulma", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express", "Netlify"],
+         js: ["Node", "Express", "Netlify", "Rest API"],
       },
-      databases: ["Firebase","MongoDB", "mySQL", "SQLServer"],
+      databases: ["Firebase", "MongoDB", "mySQL", "SQLServer"],
    },
    currentOccupation: ["i'm still in middle school, open for job opportunities"],
    challenge: "Every day at least 1 project with Visual Studio Code",
