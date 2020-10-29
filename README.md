@@ -8,7 +8,7 @@ const aboutMe = {
          css: ["SASS","Materialize", "Bulma", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express", "Netlify", "Rest API"],
+         js: ["Node", "Express", "Netlify", "Rest API", "PHP"],
       },
       databases: ["Firebase", "MongoDB", "mySQL", "SQLServer"],
    },
