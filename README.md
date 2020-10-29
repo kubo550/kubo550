@@ -1,6 +1,6 @@
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [Javascript, Typescript, HTML, CSS, PHP],
    technologies: {
       tools : ["Figma", "VSCode", "Atom" ],
       frontEnd: {
@@ -8,7 +8,7 @@ const aboutMe = {
          css: ["SASS","Materialize", "Bulma", "Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express", "Netlify", "Rest API", "PHP"],
+         js: ["Node", "Express", "Netlify", "Rest API"],
       },
       databases: ["Firebase", "MongoDB", "mySQL", "SQLServer"],
    },
