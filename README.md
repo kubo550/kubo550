@@ -1,6 +1,7 @@
 ```javascript
 const aboutMe = {
    age: 19,
+   country: "Poland"
    code: [Javascript, Typescript, HTML, CSS, PHP],
    technologies: {
       tools : ["Figma", "VSCode", "Atom" ],
