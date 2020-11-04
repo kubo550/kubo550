@@ -1,5 +1,6 @@
 ```javascript
 const aboutMe = {
+   age: 19,
    code: [Javascript, Typescript, HTML, CSS, PHP],
    technologies: {
       tools : ["Figma", "VSCode", "Atom" ],
