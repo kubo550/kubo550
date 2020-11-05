@@ -3,6 +3,7 @@ const aboutMe = {
    age: 19,
    country: "Poland",
    city: "Kraków",
+   state: "Student",
    code: [Javascript, Typescript, HTML, CSS, PHP],
    technologies: {
       tools : ["Figma", "VSCode", "Atom" ],
