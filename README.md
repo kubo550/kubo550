@@ -16,7 +16,7 @@ const aboutMe = {
       databases: ["Firebase", "MongoDB", "mySQL", "SQLServer"],
    },
    currentOccupation: ["I'm still in middle school, open for job opportunities"],
-   challenge: "Every day at least 1 project with Visual Studio Code",
+   challenge: " Every day at least 1 project with Visual Studio Code",
 };
 ```
 - 💬 Ask me about anything on my private [Messenger](https://www.messenger.com/t/acotamuwas)
