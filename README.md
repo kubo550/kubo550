@@ -8,7 +8,7 @@ const aboutMe = {
       tools : ["Figma", "VSCode", "Atom" ],
       frontEnd: {
          js: ["React", "VanillaJS", "Regex" "Gatsby", "P5.js"],
-         css: ["styled-components", "SASS","Materialize", "Bulma", "Bootstrap"]
+         css: ["styled-components", "SASS","Materialize", "Bootstrap", "Bulma"]
       },
       backEnd: {
          js: ["Node", "Express", "Netlify", "Rest API"],
