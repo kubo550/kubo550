@@ -1,5 +1,6 @@
 ```javascript
 const aboutMe = {
+   age: 19,
    country: "Poland",
    city: "Kraków",
    code: [Javascript, Typescript, HTML, CSS, PHP],
