@@ -11,7 +11,7 @@ const aboutMe = {
          css: ["styled-components", "SASS","Materialize", "Bootstrap", "Bulma"]
       },
       backEnd: {
-         js: ["Node", "Express", "Netlify", "Rest API"],
+         js: ["Node", "Express", "Netlify", "Rest API", "socket.io"],
       },
       databases: ["Firebase", "MongoDB", "mySQL", "SQLServer"],
    },
