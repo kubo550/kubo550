@@ -1,7 +1,6 @@
 ```javascript
 const aboutMe = {
    fullName: "Jakub Kurdziel",
-   age: 19,
    country: "Poland",
    code: [Javascript, Typescript, HTML, CSS, PHP],
    technologies: {
