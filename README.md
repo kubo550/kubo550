@@ -2,7 +2,6 @@
 const aboutMe = {
    name: "Jakub Kurdziel",
    age: 19,
-   City: "Kraków",
    country: "Poland",
    code: [Javascript, Typescript, HTML, CSS, PHP],
    technologies: {
