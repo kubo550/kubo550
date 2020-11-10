@@ -1,7 +1,6 @@
 ```javascript
 const aboutMe = {
    name: "Jakub Kurdziel",
-   country: "Poland",
    code: [Javascript, Typescript, HTML, CSS, PHP],
    technologies: {
       tools : ["Figma", "VSCode", "Atom" ],
