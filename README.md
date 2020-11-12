@@ -1,6 +1,5 @@
 ```javascript
 const aboutMe = {
-name: "Jakub Kurdziel",
    code: [Javascript, Typescript, HTML, CSS, PHP],
    technologies: {
       tools : ["Figma", "VSCode", "Atom" ],
