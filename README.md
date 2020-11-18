@@ -18,7 +18,6 @@ const aboutMe = {
    challenge: " Every day at least 1 project with Visual Studio Code",
 };
 ```
-- 💬 Ask me about anything on my private [Messenger](https://www.messenger.com/t/acotamuwas)
 <!--
 **kubo550/kubo550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,4 +31,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💬 Ask me about anything on my private [Messenger](https://www.messenger.com/t/acotamuwas)
+
 -->
