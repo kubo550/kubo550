@@ -3,7 +3,7 @@ const aboutMe = {
    fullName: "Jakub Kurdziel",
    code: [Javascript, Typescript, HTML, CSS, PHP],
    technologies: {
-      tools : ["Figma", "VSCode", "Atom", "Termonal" ],
+      tools : ["Figma", "VSCode", "Atom", "Termonal"],
       frontEnd: {
          js: ["React", "VanillaJS", "Regex" "Gatsby", "P5.js"],
          css: ["styled-components", "SASS", "Materialize", "Bootstrap", "Bulma"]
