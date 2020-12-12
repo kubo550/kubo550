@@ -1,7 +1,7 @@
 ```javascript
 const aboutMe = {
    fullName: "Jakub Kurdziel",
-   code: [JavaScript, TypeScript, HTML, CSS, PHP],
+   code: [JavaScript, TypeScript, HTML, CSS, php],
    technologies: {
       tools : ["Figma", "VSCode", "Atom", "Terminal"],
       frontEnd: {
