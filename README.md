@@ -5,7 +5,7 @@ const aboutMe = {
    technologies: {
       tools : ["Figma", "VSCode", "Atom", "Terminal"],
       frontEnd: {
-         js: ["React", "VanillaJS", "Regex" "Gatsby", "P5.js", "Chrome Extensions"],
+         js: ["Next.js", "React", "VanillaJS", "Regex" "Gatsby", "P5.js", "Chrome Extensions"],
          css: ["styled-components", "SASS", "Materialize", "Bootstrap", "Bulma"]
       },
       backEnd: {
