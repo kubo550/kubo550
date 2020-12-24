@@ -1,6 +1,6 @@
 ```javascript
 const aboutMe = {
-   fullName: "Jakub Kurddziel",
+   fullName: "Jaku b Kurddziel",
    code: [TypeScript, JavaScript, HTML, CSS, PHP],
    technologies: {
       tools : ["Figma", "VSCode", "Atom", "Terminal"],
