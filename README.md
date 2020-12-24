@@ -1,6 +1,6 @@
 ```javascript
 const aboutMe = {
-   fullName: "Ja ku b  K u rddziel",
+   fullName: "J a ku b  K u rddziel",
    code: [TypeScript, JavaScript, HTML, CSS, PHP],
    technologies: {
       tools : ["Figma", "VSCode", "Atom", "Terminal"],
