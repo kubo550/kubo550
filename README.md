@@ -12,9 +12,7 @@ const aboutMe = {
          js: ["Node", "Express", "Netlify", "Rest API", "socket.io"],
       },
       databases: ["Firebase", "MongoDB", "mySQL", "SQLServer"],
-   },
-   currentOccupation: ["I'm still in middle school, open for job opportunities"],
-   challenge: "Every day at least 1 project with Visual Studio Code",
+   }
 };
 ```
 <!--
