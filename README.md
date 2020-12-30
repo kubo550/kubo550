@@ -1,14 +1,14 @@
 ```javascript
 const aboutMe = {
    frontend: [HTML, Sass, CSS, TypeScript, JavaScript, HTTP],
-   backEnd: [Node.js, Express, PHP, Rest API],
+   backEnd: [Node.js, Express, PHP, Rest API, C#],
    databases: [Firebase, SQL, MongoDB],
    os: [Windowsm Linux, MacOS],
    text_editor: [VSCode, Atom, CodeSandbox],
    terminal: [cmd, Powershell, Git Bash],
    design_software: [Figma],
-   favourite: [Next, React, chrome extentions, P5, firestore],
-   
+   knowledge: [ES2020, JSON, HTTP Requests, Postman, Gatsby, Git, GitHub, npm, yarn, console, localStorage, cookies, Webpack, Vue, Jest, jquery, much_more],
+   favourite: [Next, React.ts, chrome extentions, P5, firestore, Styled-Components, Framer-motion, matterial-ui, Bootstrap, etc.],
 };
 ```
 <!--
