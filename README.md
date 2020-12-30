@@ -2,7 +2,7 @@
 const aboutMe = {
    frontend: [HTML, Sass, CSS, TypeScript, JavaScript, HTTP],
    backEnd: [Node.js, Express, PHP, Rest API],
-   databases: [Firebase, MongoDB, SQL],
+   databases: [Firebase, SQL, MongoDB],
     
 };
 ```
