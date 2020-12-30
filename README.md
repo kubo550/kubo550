@@ -3,7 +3,12 @@ const aboutMe = {
    frontend: [HTML, Sass, CSS, TypeScript, JavaScript, HTTP],
    backEnd: [Node.js, Express, PHP, Rest API],
    databases: [Firebase, SQL, MongoDB],
-    
+   os: [Windowsm Linux, MacOS],
+   text_editor: [VSCode, Atom, CodeSandbox],
+   terminal: [cmd, Powershell, Git Bash],
+   design_software: [Figma],
+   favourite: [Next, React, chrome extentions, P5, firestore],
+   
 };
 ```
 <!--
