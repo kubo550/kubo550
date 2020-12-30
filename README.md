@@ -1,18 +1,9 @@
 ```javascript
 const aboutMe = {
-   fullName: "Jakub  Kurdziel",
-   code: [TypeScript, JavaScript, HTML, CSS, PHP],
-   technologies: {
-      tools : ["Figma", "VSCode", "Atom", "Terminal"],
-      frontEnd: {
-         js: ["Next.js", "React", "VanillaJS", "Regex" "Gatsby", "P5.js", "Chrome Extensions"],
-         css: ["styled-components", "SASS", "Materialize", "Bootstrap", "Bulma"]
-      },
-      backEnd: {
-         js: ["Node", "Express", "Netlify", "Rest API", "socket.io"],
-      },
-      databases: ["Firebase", "MongoDB", "mySQL", "SQLServer"],
-   }
+   frontend: [HTML, CSS, Sass ,TypeScript, JavaScript, HTTP],
+   backEnd: [Node.js, Express, PHP, Rest API],
+   databases: [Firebase, MongoDB, SQL],
+    
 };
 ```
 <!--
