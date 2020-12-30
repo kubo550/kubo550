@@ -1,6 +1,6 @@
 ```javascript
 const aboutMe = {
-   frontend: [HTML, CSS, Sass ,TypeScript, JavaScript, HTTP],
+   frontend: [HTML, Sass, CSS, TypeScript, JavaScript, HTTP],
    backEnd: [Node.js, Express, PHP, Rest API],
    databases: [Firebase, MongoDB, SQL],
     
