@@ -8,7 +8,7 @@ const aboutMe = {
    terminal: [cmd, Powershell, Git Bash],
    design_software: [Figma],
    knowledge: [ES2020, JSON, HTTP Requests, Postman, Gatsby, Git, GitHub,
-      npm, yarn, console, localStorage, cookies, Webpack, Vue, Jest, jquery, much_more],
+      npm, yarn, console, localStorage, cookies, Webpack, Vue, Jest, jquery, "Much More!"],
    favourite: [Next, React.ts, chrome extentions, P5, firestore, 
       Styled-Components, Framer-motion, matterial-ui, Bootstrap, etc.],
 };
