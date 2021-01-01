@@ -12,7 +12,6 @@ const aboutMe = {
    favourite: [Next, React.ts, chrome extentions, P5, firestore, 
       Styled-Components, Framer-motion, matterial-ui, Bootstrap, etc.],
 };
-1
 ```
 <!--
 **kubo550/kubo550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
