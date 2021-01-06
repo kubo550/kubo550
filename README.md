@@ -15,7 +15,7 @@ const aboutMe = {
 ```
 
 
-#### Ny programist activity 💻
+#### 💻 My programist activity 💻
  - [Exercism](https://exercism.io/profiles/kubo550) account 
 <!--
 **kubo550/kubo550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
