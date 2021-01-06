@@ -13,7 +13,10 @@ const aboutMe = {
       Styled-Components, Framer-motion, matterial-ui, Bootstrap, etc.],
 };
 ```
- - 💻 My (exercism)[https://exercism.io/profiles/kubo550] account
+[exercism](https://exercism.io/profiles/kubo550)
+
+#### Ny programist activity 💻
+ - exercism account 
 <!--
 **kubo550/kubo550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
