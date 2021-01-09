@@ -14,9 +14,9 @@ const aboutMe = {
 };
 ```
 #### 👨🏽‍💻 My programist activity 👨🏽‍💻 
- - 🛠️ [Stack Overflow](https://stackoverflow.com/users/14513625/jakub-kurdziel) 🛠️
- - 💻 [Exercism](https://exercism.io/profiles/kubo550) 💻
- - 📚 [Sololearn](https://www.sololearn.com/Profile/13688548) 📚
+ - 🛠️ [Stack Overflow](https://stackoverflow.com/users/14513625/jakub-kurdziel)
+ - 💻 [Exercism](https://exercism.io/profiles/kubo550)
+ - 📚 [Sololearn](https://www.sololearn.com/Profile/13688548)
 <!--
 **kubo550/kubo550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
