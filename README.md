@@ -14,7 +14,7 @@ const aboutMe = {
 };
 ```
 
-#### 💻 My programist activity 💻
+#### 💻 My programist activity 👨🏽‍💻 💻
  - [Stack Overflow](https://stackoverflow.com/users/14513625/jakub-kurdziel) account
  - [Exercism](https://exercism.io/profiles/kubo550) account
 <!--
