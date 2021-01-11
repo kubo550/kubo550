@@ -1,3 +1,5 @@
+<h2 align="center">Hi There 👋 </h2>
+<hr />
 ```javascript
 const aboutMe = {
    frontend: [HTML, Sass, CSS, TypeScript, JavaScript, HTTP],
