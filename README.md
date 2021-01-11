@@ -21,9 +21,8 @@ const aboutMe = {
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kubo550&layout=compact&hide=contribs,prs&count_private=true&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubo550&layout=compact&theme=midnight-purple&exclude_repo=States-CoVID-19,Asteroids-Game,clock-git,weatherApp,extending-particles,heart-fireworks,website)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr />
+## 👨🏽‍💻 My programist activity 
 
-#### 👨🏽‍💻 My programist activity 👨🏽‍💻 
  - 🛠️ [Stack Overflow](https://stackoverflow.com/users/14513625/jakub-kurdziel)
  - 💻 [Exercism](https://exercism.io/profiles/kubo550)
  - 💡  [Mem Dev](https://mem.dev/cards)
