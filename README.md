@@ -1,5 +1,5 @@
 <h2 align="center">Hi There 👋 </h2>
-<hr />
+
 ```javascript
 const aboutMe = {
    frontend: [HTML, Sass, CSS, TypeScript, JavaScript, HTTP],
@@ -15,6 +15,7 @@ const aboutMe = {
       Styled-Components, Framer-motion, matterial-ui, Bootstrap, etc.],
 };
 ```
+<hr />
 #### 👨🏽‍💻 My programist activity 👨🏽‍💻 
  - 🛠️ [Stack Overflow](https://stackoverflow.com/users/14513625/jakub-kurdziel)
  - 💻 [Exercism](https://exercism.io/profiles/kubo550)
