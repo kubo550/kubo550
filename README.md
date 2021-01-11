@@ -15,8 +15,8 @@ const aboutMe = {
       Styled-Components, Framer-motion, matterial-ui, Bootstrap, etc.],
 };
 ```
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kubo550)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kubo550&hide=contribs,prs)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kubo550&count_private=true&show_icons=true)
 <hr />
 
 #### 👨🏽‍💻 My programist activity 👨🏽‍💻 
