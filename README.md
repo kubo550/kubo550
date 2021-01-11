@@ -1,4 +1,4 @@
-<h2 align="center">Hi There 👋 </h2>
+<h2 align="center"> 👋 Hi There 👋 </h2>
 
 ```javascript
 const aboutMe = {
