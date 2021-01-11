@@ -19,7 +19,7 @@ const aboutMe = {
 <hr />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kubo550&hide=contribs,prs&count_private=true&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubo550&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubo550&layout=compact&theme=midnight-purple?exclude_repo=States-CoVID-19,Asteroids-Game,clock-git,weatherApp,extending-particles,heart-fireworks,website)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr />
 
