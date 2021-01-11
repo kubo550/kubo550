@@ -1,5 +1,6 @@
 <h2 align="center"> 👋 Hi There 👋 </h2>
 
+![coding vscode](https://hackernoon.com/hn-images/1*KbC-gUATfgCAHLos0n-Bqg.gif)
 ![coding last night](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
 
 ## About
