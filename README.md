@@ -1,7 +1,5 @@
 <h2 align="center"> 👋 Hi There 👋 </h2>
 
-![coding vscode](https://hackernoon.com/hn-images/1*KbC-gUATfgCAHLos0n-Bqg.gif)
-
 
 ## About
 
@@ -38,7 +36,9 @@ const aboutMe = {
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-![coding last night](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
+<div align="center">
+   ![coding last night](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
+</div>
 
 ## 📈 GitHub Analytics
 
