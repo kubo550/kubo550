@@ -1,4 +1,4 @@
-<h2 align="center"> <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> Hi There <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> </h2>
+<h2 align="center"> <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> Welcome in powerty home <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> </h2>
 
 
 ## 🧍 &nbsp; About
