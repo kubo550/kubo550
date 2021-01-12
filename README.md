@@ -48,9 +48,12 @@ const aboutMe = {
 
 
 ## 📈 GitHub Analytics
+ 
+ <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=kubo550&layout=compact&hide=contribs,prs&count_private=true&show_icons=true&theme=midnight-purple" alt="Anurag's github stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubo550&layout=compact&theme=midnight-purple&exclude_repo=States-CoVID-19,Asteroids-Game,clock-git,weatherApp,extending-particles,heart-fireworks,website)](https://github.com/anuraghazra/github-readme-stats" alt="Top Langs" />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kubo550&layout=compact&hide=contribs,prs&count_private=true&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubo550&layout=compact&theme=midnight-purple&exclude_repo=States-CoVID-19,Asteroids-Game,clock-git,weatherApp,extending-particles,heart-fireworks,website)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 
 ## 👨🏽‍💻 My programist activity 
 
