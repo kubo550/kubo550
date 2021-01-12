@@ -1,23 +1,6 @@
 <h2 align="center"> <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> Welcome in powerty home <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> </h2>
 
 
-## 🧍 &nbsp; About
-
-```javascript
-const aboutMe = {
-   frontend: [HTML, Sass, CSS, TypeScript, JavaScript, HTTP],
-   backEnd: [Node.js, Express, PHP, Rest API, C#],
-   databases: [Firebase, SQL, MongoDB],
-   os: [Windowsm Linux, MacOS],
-   text_editor: [VSCode, Atom, CodeSandbox],
-   terminal: [cmd, Powershell, Git Bash],
-   design_software: [Figma],
-   knowledge: [ES2020, JSON, HTTP Requests, Postman, Gatsby, Git, GitHub, env,
-      npm, yarn, console, localStorage, cookies, Webpack, Vue, Jest, jquery, "Much More!"],
-   favourite: [Next, React.ts, chrome extentions, P5, firestore, 
-      Styled-Components, Framer-motion, matterial-ui, Bootstrap, etc.],
-};
-```
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠 &nbsp; Tech Stack
@@ -57,3 +40,24 @@ const aboutMe = {
  - 💻 [Exercism](https://exercism.io/profiles/kubo550)
  - 💡  [Mem Dev](https://mem.dev/cards)
  - 📚 [Sololearn](https://www.sololearn.com/Profile/13688548)
+
+<!---
+
+## 🧍 &nbsp; About
+
+```javascript
+const aboutMe = {
+   frontend: [HTML, Sass, CSS, TypeScript, JavaScript, HTTP],
+   backEnd: [Node.js, Express, PHP, Rest API, C#],
+   databases: [Firebase, SQL, MongoDB],
+   os: [Windowsm Linux, MacOS],
+   text_editor: [VSCode, Atom, CodeSandbox],
+   terminal: [cmd, Powershell, Git Bash],
+   design_software: [Figma],
+   knowledge: [ES2020, JSON, HTTP Requests, Postman, Gatsby, Git, GitHub, env,
+      npm, yarn, console, localStorage, cookies, Webpack, Vue, Jest, jquery, "Much More!"],
+   favourite: [Next, React.ts, chrome extentions, P5, firestore, 
+      Styled-Components, Framer-motion, matterial-ui, Bootstrap, etc.],
+};
+```
+-->
