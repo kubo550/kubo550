@@ -49,7 +49,7 @@ const aboutMe = {
 
  </div>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Code Source" src="https://redwoodcodeacademy.com/wp-content/uploads/2018/01/Learn-Programming-in-Los-Angeles-300x200.jpg" align="right"/>
 
 ## 👨🏽‍💻 &nbsp; My programist activity 
 
