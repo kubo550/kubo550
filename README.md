@@ -33,6 +33,12 @@ const aboutMe = {
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=4951aa)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)\
+![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)&nbsp;
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)&nbsp;
 
 
 ## 📈 &nbsp; GitHub Analytics
