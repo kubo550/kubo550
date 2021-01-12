@@ -43,6 +43,8 @@ const aboutMe = {
 
  </div>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ## 👨🏽‍💻 &nbsp; My programist activity 
 
  - 🛠️ [Stack Overflow](https://stackoverflow.com/users/14513625/jakub-kurdziel)
