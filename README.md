@@ -1,7 +1,7 @@
 <h2 align="center"> 👋 Hi There 👋 </h2>
 
 
-## About
+## 🧍 &nbsp; About
 
 ```javascript
 const aboutMe = {
@@ -20,7 +20,7 @@ const aboutMe = {
 ```
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp; Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -35,7 +35,7 @@ const aboutMe = {
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 
-## 📈 GitHub Analytics
+## 📈 &nbsp; GitHub Analytics
  
  <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=kubo550&layout=compact&hide=contribs,prs&count_private=true&show_icons=true&theme=midnight-purple" alt="Anurag's github stats" />
@@ -43,7 +43,7 @@ const aboutMe = {
 
  </div>
 
-## 👨🏽‍💻 My programist activity 
+## 👨🏽‍💻 &nbsp; My programist activity 
 
  - 🛠️ [Stack Overflow](https://stackoverflow.com/users/14513625/jakub-kurdziel)
  - 💻 [Exercism](https://exercism.io/profiles/kubo550)
