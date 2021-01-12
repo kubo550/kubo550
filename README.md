@@ -32,7 +32,7 @@
 
  </div>
 
-<img alt="Code Source" src="https://redwoodcodeacademy.com/wp-content/uploads/2018/01/Learn-Programming-in-Los-Angeles-300x200.jpg" align="right"/>
+<img alt="Code Source" src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/3otv%20(1).gif?alt=media&token=3e8cade3-19cf-4aa4-a899-be3a0a0578b3" align="right"/>
 
 ## 👨🏽‍💻 &nbsp; My programist activity 
 
