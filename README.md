@@ -1,4 +1,4 @@
-<h2 align="center"> <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> Welcome in powerty home <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> </h2>
+<h2 align="center"> <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> Hello Stranger! <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> </h2>
 
 ```javascript
 const aboutMe = {
@@ -50,11 +50,4 @@ const Jakub_Kurdziel = new Develtoper(aboutMe, { city: "Cracow", age: 20, englis
  - 💡  [Mem Dev](https://mem.dev/cards)
  - 📚 [Sololearn](https://www.sololearn.com/Profile/13688548)
 
-<!---
 
-<img alt="Code Source" src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/3otv%20(1).gif?alt=media&token=3e8cade3-19cf-4aa4-a899-be3a0a0578b3" />
-
-## 🧍 &nbsp; About
-
-
--->
