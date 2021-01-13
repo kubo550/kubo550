@@ -2,8 +2,8 @@
 
 ```javascript
 const aboutMe = {
-   knowledge: ["ES2021", "React", "Next", "Gatsby", "JSON", "HTTP", "Postman", "Git", "GitHub", "Node", "Webpack", "Vue", "Jest", "jquery", "Much More!"],
-   favourite: ["Next", "React", "chrome extentions", "P5", "Firebase", "Styled-Components", "Framer-motion", "matterial-ui", Bootstrap, "etc."]
+   knowledge: ["ES2021", "Next", "Gatsby",  "HTTP", "Postman", "Git", "GitHub", "Node", "Webpack", "Vue", "Jest", "jquery", "Much More!"],
+   favourite: ["Next", "React", "chrome extentions", "P5", "Firebase", "Styled-Components", "Framer-motion", "matterial-ui", "etc."]
 };
 ```
 
