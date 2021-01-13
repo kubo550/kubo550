@@ -33,7 +33,7 @@
 
  </div>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/catMd.gif?alt=media&token=812edda7-0016-4456-b0ee-aba4d21d08de" alt="cat" align="right" />
+<img src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/catMd.gif?alt=media&token=812edda7-0016-4456-b0ee-aba4d21d08de" alt="cat" align="right" width="200" />
 
 ## 👨🏽‍💻 &nbsp; My programist activity 
 
