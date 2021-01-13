@@ -1,4 +1,4 @@
-<h2 align="center"> <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> Hello Stranger! <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> </h2>
+<p align="center"> <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> Hello Stranger! <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> </p>
 <img align="center" src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/line.png?alt=media" alt="horizontal line - star png from pngtree.com" />
 
 ```javascript
