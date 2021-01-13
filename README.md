@@ -2,9 +2,10 @@
 
 ```javascript
 const aboutMe = {
-   knowledge: ["ES2021", "Next", "Gatsby",  "HTTP", "Postman", "Git", "Node", "Webpack", "Vue", "Jest", "Much More!"],
+   knowledge: ["ES2021", "Next", "Typescript", "Sass", "HTTP", "Git", "Node", "Webpack", "Vue", "Jest", "Much More!"],
    favourite: ["Next", "React", "chrome extentions", "P5", "Firebase", "Styled-Components", "Framer-motion", "etc."]
 };
+const Jakub_Kurdziel = new Develtoper(aboutMe, {city: "Cracow", age: 20, ASAP: true })
 ```
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
