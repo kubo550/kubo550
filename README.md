@@ -3,7 +3,7 @@
 ```javascript
 const aboutMe = {
    knowledge: ["ES2021", "Next", "Gatsby",  "HTTP", "Postman", "Git", "Node", "Webpack", "Vue", "Jest", "Much More!"],
-   favourite: ["Next", "React", "chrome extentions", "P5", "Firebase", "Styled-Components", "Framer-motion", "matterial-ui", "etc."]
+   favourite: ["Next", "React", "chrome extentions", "P5", "Firebase", "Styled-Components", "Framer-motion", "etc."]
 };
 ```
 
