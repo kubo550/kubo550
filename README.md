@@ -2,8 +2,8 @@
 
 ```javascript
 const aboutMe = {
-   knowledge: [ES2020, JSON, HTTP Requests, Postman, Gatsby, Git, GitHub, env,
-      npm, yarn, console, localStorage, cookies, Webpack, Vue, Jest, jquery, "Much More!"],
+   knowledge: ["ES2021", "JSON", "HTTP Requests", "Postman", "Gatsby", "Git", "GitHub", "env",
+      "npm", "yarn",  "Webpack", "Vue", "Jest", "jquery", "Much More!"],
    favourite: [Next, React.ts, chrome extentions, P5, firestore, 
       Styled-Components, Framer-motion, matterial-ui, Bootstrap, etc.],
 };
