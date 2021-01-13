@@ -32,6 +32,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubo550&layout=compact&theme=midnight-purple&exclude_repo=States-CoVID-19,Asteroids-Game,clock-git,weatherApp,extending-particles,heart-fireworks,website)](https://github.com/anuraghazra/github-readme-stats" alt="Top Langs" />
 
  </div>
+<br />
 
 <img src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/catMd.gif?alt=media&token=812edda7-0016-4456-b0ee-aba4d21d08de" alt="cat" align="right" width="300" height="240" />
 
