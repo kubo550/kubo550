@@ -6,7 +6,7 @@ const aboutMe = {
    knowledge: ["ES2021", "SVG", "Typescript", "Sass", "HTTP", "Git", "Node", "Webpack", "Vue", "Jest", "Much More!"],
    favourite: ["Next", "React", "chrome extentions", "P5", "Firebase", "Styled-Components", "Framer-motion", "etc."]
 };
-const Jakub_Kurdziel = new Develtoper(aboutMe, { city: "Cracow", age: 20, english: true, teamWorker: true, ASAP: true });
+const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english: true, teamWorker: true, ASAP: true });
 ```
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
