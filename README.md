@@ -40,7 +40,7 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
  <div align="center">
  
    <img src="https://github-readme-stats.vercel.app/api?username=kubo550&layout=compact&hide=contribs,prs&count_private=true&show_icons=true&theme=midnight-purple" alt="powerty's github stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubo550&layout=compact&theme=midnight-purple&exclude_repo=States-CoVID-19,Asteroids-Game,clock-git,weatherApp,extending-particles,heart-fireworks,website,top-songs,react-memory-game,cinema)](https://github.com/anuraghazra/github-readme-stats" alt="Top Langs" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubo550&layout=compact&theme=midnight-purple&exclude_repo=States-CoVID-19,Asteroids-Game,clock-git,weatherApp,extending-particles,heart-fireworks,website,top-songs,react-memory-game,cinema,canvas-gallery)](https://github.com/anuraghazra/github-readme-stats" alt="Top Langs" />
 
  </div>
 <br />
