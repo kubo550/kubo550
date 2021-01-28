@@ -57,9 +57,9 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
  
  <p align="center">
 	<a href="https://github.com/kubo550"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/powerty2"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"  alt="Facebook"/></a>
+	<a href="https://www.messenger.com/t/100005543894347"><img src="https://img.icons8.com/bubbles/50/000000/facebook-messenger.png"  alt="Messenger"/></a>
 	<a href="https://www.instagram.com/kuba.kurdziel_19"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 <!--- 
  the line horizontal icon: 
