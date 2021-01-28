@@ -54,6 +54,13 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
  - 💡  [Mem Dev](https://mem.dev/cards)
  - [Sonar Cloud](https://sonarcloud.io/organizations/kubo550/projects)
  - 📚 [Sololearn](https://www.sololearn.com/Profile/13688548)
+ 
+ <p align="center">
+	<a href="https://github.com/kubo550"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/kuba.kurdziel_19"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
 <!--- 
  the line horizontal icon: 
  <a href='https://pngtree.com/so/star'>star png from pngtree.com</a>
