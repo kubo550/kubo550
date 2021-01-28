@@ -56,12 +56,18 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
  - 📚 [Sololearn](https://www.sololearn.com/Profile/13688548)
  
  <p align="center">
-	<a href="https://github.com/kubo550"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/jakub-kurdziel-449714205/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="Linkedin"/></a>
 	<a href="https://www.facebook.com/powerty2"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"  alt="Facebook"/></a>
 	<a href="https://www.messenger.com/t/100005543894347"><img src="https://img.icons8.com/bubbles/50/000000/facebook-messenger.png"  alt="Messenger"/></a>
 	<a href="https://www.instagram.com/kuba.kurdziel_19"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
-<!--- 
+<!---
+
+# SOURCES 
+
+ icons:
+ <a href="https://icons8.com/icon/114492/facebook-messenger">Facebook Messenger icon by Icons8</a>
+
  the line horizontal icon: 
  <a href='https://pngtree.com/so/star'>star png from pngtree.com</a>
 -->
