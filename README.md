@@ -31,8 +31,8 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)&nbsp;
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat&logo=SASS)&nbsp;
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat-square&logo=Firebase)&nbsp;
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat&logo=material-ui)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 
 
 ## 📈 &nbsp; GitHub Analytics
