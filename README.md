@@ -34,7 +34,7 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
 ![Material_UI](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=material-ui)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 
-1234
+12345
 ## 📈 &nbsp; GitHub Analytics
  
  <div align="center">
