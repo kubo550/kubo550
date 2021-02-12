@@ -7,7 +7,7 @@ const aboutMe = {
    favourite: ["Next", "React", "chrome extentions", "P5", "Firebase", "Styled-Components", "Framer-motion", "etc."]};
 const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english: true, teamWorker: true, ASAP: true });
 ```
-123
+1234
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠 &nbsp; Tech Stack
