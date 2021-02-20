@@ -55,9 +55,9 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
 
  - 🛠️ [Stack Overflow](https://stackoverflow.com/users/14513625/jakub-kurdziel)
  - 💻 [Exercism](https://exercism.io/profiles/kubo550)
- - 💡  [Mem Dev](https://mem.dev/cards)
  - 🧪 [Sonar Cloud](https://sonarcloud.io/organizations/kubo550/projects)
  - 📚 [Sololearn](https://www.sololearn.com/Profile/13688548)
+ - 💡  [Mem Dev](https://mem.dev/cards)
  
  <p align="center">
 	<a href="https://www.linkedin.com/in/jakub-kurdziel-449714205/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="Linkedin"/></a>
