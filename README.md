@@ -60,6 +60,7 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
  - 📚 [Sololearn](https://www.sololearn.com/Profile/13688548)
  - 💡  [Mem Dev](https://mem.dev/cards)
  
+ 
  <p align="center">
 	<a href="https://www.linkedin.com/in/jakub-kurdziel-449714205/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="Linkedin"/></a>
 	<a href="https://www.facebook.com/powerty2"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"  alt="Facebook"/></a>
