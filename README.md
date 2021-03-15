@@ -64,8 +64,8 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
  - 📚 [Sololearn](https://www.sololearn.com/Profile/13688548)
  - 💡  [Mem Dev](https://mem.dev/cards)
  
- Track ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) on Exercism  \ 
- ![50%](https://progress-bar.dev/50)
+ Track ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) on Exercism &nbsp; 
+ ![62%](https://progress-bar.dev/62)
  
  <p align="center">
 	<a href="https://www.linkedin.com/in/jakub-kurdziel-449714205/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="Linkedin"/></a>
