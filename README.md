@@ -65,7 +65,7 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
  - 💡  [Mem Dev](https://mem.dev/cards)
  
  Track ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) on [Exercism](https://exercism.io/profiles/kubo550) &nbsp; 
- ![68%](https://progress-bar.dev/80)
+ ![68%](https://progress-bar.dev/70)
  
  <p align="center">
     <a href="https://www.linkedin.com/in/jakub-kurdziel-449714205/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="Linkedin"/></a>
