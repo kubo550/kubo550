@@ -16,7 +16,7 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
