@@ -2,7 +2,7 @@
 <img align="center" src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/line.png?alt=media" alt="horizontal line - star png from pngtree.com" />
     
 ```javascript
-
+ 
 const aboutMe = {
    knowledge: ["ES2021", "SVG", "Typescript", "Sass", "HTTP", "Git", "Node", "Vue", "Jest", "Much More!"],
    favourite: ["Next", "React", "chrome extentions", "P5", "Firebase", "Styled-Components", "Framer-motion"]
