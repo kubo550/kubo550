@@ -10,7 +10,7 @@ const aboutMe = {
 const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english: true, teamWorker: true, ASAP: true });
 ```
 
-(Looking for new job)
+(Looking for a job)
 
 ## 🛠 &nbsp; Tech Stack
 
