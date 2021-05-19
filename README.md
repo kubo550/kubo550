@@ -83,7 +83,6 @@ Send me mail with job offer @[qwercy142](mailto:qwercy142@gmail.com)
 <!---
 
 
-
 # SOURCES 
 
  icons:
