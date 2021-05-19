@@ -75,6 +75,7 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
  <p align="center">
     <a href="https://www.linkedin.com/in/jakub-kurdziel-449714205/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="Linkedin"/></a>
     <a href="https://www.facebook.com/powerty2"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"  alt="Facebook"/></a>
+   [mailto](mailto:qwercy142@gmail.com)
     <a href="https://www.linkedin.com/in/jakub-kurdziel-449714205/"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
     <a href="https://www.instagram.com/__kurdziel/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
     <a href="https://www.messenger.com/t/100005543894347"><img src="https://img.icons8.com/bubbles/50/000000/facebook-messenger.png"  alt="Messenger"/></a>
