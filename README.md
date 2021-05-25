@@ -11,7 +11,6 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
 ```
 
 
-
 (Looking for a job in Kraków)
 
 ## 🛠 &nbsp; Tech Stack
