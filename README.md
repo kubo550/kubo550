@@ -10,9 +10,6 @@ const aboutMe = {
 const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english: true, teamWorker: true, ASAP: true });
 ```
 
-
-(Looking for a job in Kraków)
-
 ## 🛠 &nbsp; Tech Stack
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
