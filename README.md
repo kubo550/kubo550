@@ -4,7 +4,7 @@
 ```javascript
 
 const aboutMe = {
-   knowledge: ["ES2021", "SVG", "Typescript", "Sass", "HTTP", "Git", "Node", "Vue", "Jest"],
+   knowledge: ["ES2021", "Typescript", "Sass", "HTTP", "Git", "Node", "Vue", "SVG", "Jest"],
    favourite: ["Next", "React", "chrome extentions", "P5", "Firebase", "Styled-Components", "Framer-motion"]
 }
 const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english: true, teamWorker: true, ASAP: true });
