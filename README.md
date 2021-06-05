@@ -45,6 +45,7 @@ const Jakub_Kurdziel = new Developer(aboutMe, { city: "Cracow", age: 20, english
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Ramda](https://img.shields.io/badge/-ramda-05122A?style=flat&logo=ramda)&nbsp;
+![Lodash](https://img.shields.io/badge/-lodash-05122A?style=flat&logo=lodash)
 
 
 ## 📈 &nbsp; GitHub Analytics
