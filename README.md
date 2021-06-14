@@ -2,6 +2,7 @@
 <img align="center" src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/line.png?alt=media" alt="horizontal line - star png from pngtree.com" />
 
 
+
 ```javascript
 const Jakub_Kurdziel = new Developer({ city: "Cracow", time: "ASAP" });
 ```
