@@ -50,8 +50,8 @@ const Jakub_Kurdziel = new Developer({ city: "Cracow", time: "ASAP" });
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubo550&layout=compact&theme=midnight-purple&exclude_repo=States-CoVID-19,Asteroids-Game,clock-git,weatherApp,extending-particles,heart-fireworks,website,top-songs,react-memory-game,cinema,canvas-gallery,TypeRacer-clone,tic-tac-toe-closure,game-speedrun-timer,typeracer-multiplayer)](https://github.com/anuraghazra/github-readme-stats" alt="Top Langs" />
 
  </div>
-<br />
 
+<br />
 
 ## 👨🏽‍💻 &nbsp; Programist Activities
 
