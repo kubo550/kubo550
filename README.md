@@ -19,10 +19,10 @@ const Jakub_Kurdziel = new Developer({ city: "Cracow", time: "ASAP" });
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=1572B6)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![tailwindCSS](https://img.shields.io/badge/tailwindcss-05122A.svg?&style=flat&logo=tailwind-css&logoColor=white")&nbsp;
 ![PHP](http://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=php&logoColor=4951aa)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
 
 ![Material](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=material-ui)&nbsp;
@@ -34,9 +34,9 @@ const Jakub_Kurdziel = new Developer({ city: "Cracow", time: "ASAP" });
 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Ramda](https://img.shields.io/badge/-ramda-05122A?style=flat&logo=ramda)&nbsp;
 ![Lodash](https://img.shields.io/badge/-lodash-05122A?style=flat&logo=lodash)
 
