@@ -40,7 +40,6 @@ const Jakub_Kurdziel = new Developer({ city: "Cracow | Remote" , time: "ASAP" })
 ![Ramda](https://img.shields.io/badge/-ramda-05122A?style=flat&logo=ramda)&nbsp;
 ![Lodash](https://img.shields.io/badge/-lodash-05122A?style=flat&logo=lodash)
 
-
 ## 📈 &nbsp; GitHub Analytics
  
  <div align="center">
