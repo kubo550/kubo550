@@ -59,8 +59,7 @@ const Jakub_Kurdziel = new Developer({ city: "Cracow | Remote" , time: "ASAP" })
  - 💻 [Exercism](https://exercism.io/profiles/kubo550)
  - 🧪 [Sonar Cloud](https://sonarcloud.io/organizations/kubo550/projects)
  - 📚 [Sololearn](https://www.sololearn.com/Profile/13688548)
- - 💡  [Mem Dev](https://mem.dev/cards)
- - 🖼 [Pinterest](https://pl.pinterest.com/qwercy142/_saved/) to inspiration
+ - 🖼 [Pinterest](https://pl.pinterest.com/qwercy142/_saved/) to find inspiration
  
  Track ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) on [Exercism](https://exercism.io/profiles/kubo550) &nbsp; 
  ![70%](https://progress-bar.dev/70)  
