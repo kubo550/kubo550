@@ -1,8 +1,6 @@
 <h2 align="center"> <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px"> Hello World! 🎈
 
-Come to my  ![website](https://user-images.githubusercontent.com/43968748/128219763-ad8f9408-0fb9-4532-942b-b9f919c4679f.png)
-
- [Website](https://wonderful-hugle-16c351.netlify.app/)
+ [My Website](https://wonderful-hugle-16c351.netlify.app/)
  
  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/line.png?alt=media" alt="horizontal line - star png from pngtree.com" />
 
