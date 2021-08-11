@@ -19,7 +19,6 @@ const Jakub_Kurdziel = new Developer({ city: "Cracow | Remote" , time: "ASAP" })
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -39,10 +38,9 @@ const Jakub_Kurdziel = new Developer({ city: "Cracow | Remote" , time: "ASAP" })
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-styled_components-05122A?style=flat&logo=styled-components)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
-
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)&nbsp;
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Ramda](https://img.shields.io/badge/-ramda-05122A?style=flat&logo=ramda)&nbsp;
@@ -87,7 +85,7 @@ Send me mail with job offer @[qwercy142](mailto:qwercy142@gmail.com)
 
  icons:
  <a href="https://icons8.com/icon/114492/facebook-messenger">Facebook Messenger icon by Icons8</a>
-
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)&nbsp;
  the line horizontal icon: 
  <a href='https://pngtree.com/so/star'>star png from pngtree.com</a>
 -->
