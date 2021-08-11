@@ -38,13 +38,13 @@ const Jakub_Kurdziel = new Developer({ city: "Cracow | Remote" , time: "ASAP" })
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-styled_components-05122A?style=flat&logo=styled-components)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
-![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
-![Ramda](https://img.shields.io/badge/-ramda-05122A?style=flat&logo=ramda)&nbsp;
 ![Lodash](https://img.shields.io/badge/-lodash-05122A?style=flat&logo=lodash)
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
+![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+ 
 
 ## 📈 &nbsp; GitHub Analytics
  
