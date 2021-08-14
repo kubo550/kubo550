@@ -9,10 +9,6 @@
  
  <br />
 
-```javascript
-const Jakub_Kurdziel = new Developer({ city: "Cracow | Remote" , time: "ASAP" });
-```
-
 ## 🛠 &nbsp; Tech Stack
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -88,4 +84,9 @@ Send me mail with job offer @[qwercy142](mailto:qwercy142@gmail.com)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)&nbsp;
  the line horizontal icon: 
  <a href='https://pngtree.com/so/star'>star png from pngtree.com</a>
+
+```javascript
+const Jakub_Kurdziel = new Developer({ city: "Cracow | Remote" , time: "ASAP" });
+```
+
 -->
