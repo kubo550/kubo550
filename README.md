@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">
+<p style="text-align: center; font-size: 34px">
  
 [Website](https://wonderful-hugle-16c351.netlify.app/)
  
