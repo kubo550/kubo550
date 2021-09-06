@@ -56,7 +56,7 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/catMd.gif?alt=media&token=812edda7-0016-4456-b0ee-aba4d21d08de" alt="cat" align="right" width="300" height="240" />
 
- - 🦊 [gitlab](https://gitlab.com/jkurdziel)
+ - 🦊 [Gitlab](https://gitlab.com/jkurdziel)
  - 🛠️ [Stack Overflow](https://stackoverflow.com/users/14513625/jakub-kurdziel)
  - 💻 [Exercism](https://exercism.io/profiles/kubo550)
  - 🧪 [Sonar Cloud](https://sonarcloud.io/organizations/kubo550/projects)
