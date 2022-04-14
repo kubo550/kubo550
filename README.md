@@ -47,11 +47,9 @@
 
 <br />
 
-![ads](https://crafted.pl/uploads/zdjprofil/monthly_2018_12/e593ab0589d5f1b389e4dfbcce2bce20.thumb.gif.ec9ac8d8903556997c4dcbf97b2b0cfa.gif)
-
 ## 👨🏽‍💻 &nbsp; Programist Activities
 
-<img src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/catMd.gif?alt=media&token=812edda7-0016-4456-b0ee-aba4d21d08de" alt="cat" align="right" width="300" height="240" />
+<img src="https://crafted.pl/uploads/zdjprofil/monthly_2018_12/e593ab0589d5f1b389e4dfbcce2bce20.thumb.gif.ec9ac8d8903556997c4dcbf97b2b0cfa.gif" alt="BMO" align="right" width="300" height="240" />
 
  - 🦊 [Gitlab](https://gitlab.com/jkurdziel)
  - 🛠️ [Stack Overflow](https://stackoverflow.com/users/14513625/jakub-kurdziel)
