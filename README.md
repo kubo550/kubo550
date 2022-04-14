@@ -47,7 +47,7 @@
 
 <br />
 
-[ads](https://crafted.pl/uploads/zdjprofil/monthly_2018_12/e593ab0589d5f1b389e4dfbcce2bce20.thumb.gif.ec9ac8d8903556997c4dcbf97b2b0cfa.gif)
+![ads](https://crafted.pl/uploads/zdjprofil/monthly_2018_12/e593ab0589d5f1b389e4dfbcce2bce20.thumb.gif.ec9ac8d8903556997c4dcbf97b2b0cfa.gif)
 
 ## 👨🏽‍💻 &nbsp; Programist Activities
 
