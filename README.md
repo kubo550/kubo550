@@ -41,6 +41,7 @@
 
  
  <p align="center">
+    <a href="https://stackoverflow.com/users/14513625/jakub-kurdziel"><img src="https://img.icons8.com/bubbles/50/000000/stack.png" alt="Stack Overflow"/></a>
     <a href="https://www.linkedin.com/in/jakub-kurdziel-449714205/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="Linkedin"/></a>
     <a href="https://www.facebook.com/powerty2"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"  alt="Facebook"/></a>
     <a href="https://www.instagram.com/__kurdziel/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
