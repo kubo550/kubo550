@@ -1,8 +1,3 @@
-
- <img align="center" src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/line.png?alt=media" alt="horizontal line - star png from pngtree.com" />
- 
-
- 
 ## 🛠 &nbsp; Tech Stack
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -35,6 +30,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
  
+ 
+  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/line.png?alt=media" alt="horizontal line - star png from pngtree.com" />
 
 ## 👨🏽‍💻 &nbsp; Programist Activities
 
