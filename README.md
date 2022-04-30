@@ -4,20 +4,24 @@
 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Jest](https://img.shields.io/badge/-jest-05122A?style=flat&logo=jest)&nbsp;
+![ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![python](https://img.shields.io/badge/python-05122A?style=flat&logo=python)&nbsp;
+<!-- ![golang](https://img.shields.io/badge/golang-05122A?style=flat&logo=go)&nbsp; -->
+
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
-![tailwindCSS](https://img.shields.io/badge/tailwindcss-05122A.svg?&style=flat&logo=tailwind-css&logoColor=white")&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
+![Jest](https://img.shields.io/badge/-jest-05122A?style=flat&logo=jest)&nbsp;
 
+![Lodash](https://img.shields.io/badge/-lodash-05122A?style=flat&logo=lodash)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)&nbsp;
 
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
-![Lodash](https://img.shields.io/badge/-lodash-05122A?style=flat&logo=lodash)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
  
