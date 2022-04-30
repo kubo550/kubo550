@@ -15,11 +15,10 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Styled Components](https://img.shields.io/badge/-styled_components-05122A?style=flat&logo=styled-components)&nbsp;
 
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Lodash](https://img.shields.io/badge/-lodash-05122A?style=flat&logo=lodash)
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
  
  
