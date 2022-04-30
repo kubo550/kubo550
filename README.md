@@ -10,10 +10,10 @@
 <!-- ![golang](https://img.shields.io/badge/golang-05122A?style=flat&logo=go)&nbsp; -->
 
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
 ![Jest](https://img.shields.io/badge/-jest-05122A?style=flat&logo=jest)&nbsp;
+![Nest](https://img.shields.io/badge/NestJS-05122A?style=flat&logo=nestjs)
 
 ![Lodash](https://img.shields.io/badge/-lodash-05122A?style=flat&logo=lodash)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
