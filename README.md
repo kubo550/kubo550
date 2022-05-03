@@ -6,9 +6,9 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![python](https://img.shields.io/badge/python-05122A?style=flat&logo=python)&nbsp;
-<!-- ![golang](https://img.shields.io/badge/golang-05122A?style=flat&logo=go)&nbsp; -->
+![golang](https://img.shields.io/badge/Go-05122A?style=flat&logo=go)&nbsp;
+<!-- ![ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp; -->
 
 
 ![Next](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
@@ -18,7 +18,7 @@
 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)
+![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)&nbsp;
 
