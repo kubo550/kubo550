@@ -16,8 +16,9 @@
 ![Jest](https://img.shields.io/badge/-jest-05122A?style=flat&logo=jest)&nbsp;
 ![Nest](https://img.shields.io/badge/NestJS-05122A?style=flat&logo=nestjs)
 
-![Lodash](https://img.shields.io/badge/-lodash-05122A?style=flat&logo=lodash)
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)&nbsp;
 
@@ -55,7 +56,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)&nbsp;
  the line horizontal icon: 
  <a href='https://pngtree.com/so/star'>star png from pngtree.com</a>
-
+![Lodash](https://img.shields.io/badge/-lodash-05122A?style=flat&logo=lodash)
 ```javascript
 const Jakub_Kurdziel = new Developer({ city: "Cracow | Remote" , time: "ASAP" });
 ```
