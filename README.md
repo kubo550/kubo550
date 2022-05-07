@@ -1,8 +1,10 @@
 ## 🛠 &nbsp; Tech Stack
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="stats" src="https://9feb-83-29-140-235.ngrok.io/stats?id=14513625" align="right"/>
 
-<!-- ![stats](http://a0f7-83-29-140-235.ngrok.io/stats?id=14513625) -->
+
+<!-- ![stats](https://9feb-83-29-140-235.ngrok.io/stats?id=14513625) -->
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -27,8 +29,6 @@
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
  
- 
- ![stats](http://127.0.0.1:35727/stats?id=14513625)
  
   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/line.png?alt=media" alt="horizontal line - star png from pngtree.com" />
 
