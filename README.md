@@ -6,7 +6,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-![stats](https://9ef4-83-29-140-235.ngrok.io/stats?id=14513625)
+![stats](https://2a04-83-29-140-235.ngrok.io/stats?id=14513625)
 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
