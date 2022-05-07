@@ -28,6 +28,8 @@
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
  
  
+ ![stats](http://127.0.0.1:35727/stats?id=14513625)
+ 
   <img align="center" src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/line.png?alt=media" alt="horizontal line - star png from pngtree.com" />
 
 ## 👨🏽‍💻 &nbsp; Programist Activities
