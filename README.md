@@ -1,7 +1,9 @@
+<img alt="stats" src="https://9feb-83-29-140-235.ngrok.io/stats?id=14513625" align="right"/>
+
+
 ## 🛠 &nbsp; Tech Stack
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<img alt="stats" src="https://9feb-83-29-140-235.ngrok.io/stats?id=14513625" align="right"/>
 
 
 <!-- ![stats](https://9feb-83-29-140-235.ngrok.io/stats?id=14513625) -->
