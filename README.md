@@ -6,8 +6,6 @@
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
-![my profile](https://graph.facebook.com/1432867793574670/picture?type=large)
-
 <!-- ![stats](https://9feb-83-29-140-235.ngrok.io/stats?id=14513625) -->
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
