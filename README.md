@@ -3,7 +3,6 @@
 ## 🛠 &nbsp; Tech Stack
 
 
-<img src="https://stack-stats.herokuapp.com/stats?id=14513625" alt="stack stats" />&nbsp;
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -46,6 +45,9 @@
     <a href="https://www.instagram.com/__kurdziel/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
     <a href="https://www.messenger.com/t/100005543894347"><img src="https://img.icons8.com/bubbles/50/000000/facebook-messenger.png"  alt="Messenger"/></a>
 </p>
+
+<img src="https://stack-stats.herokuapp.com/stats?id=14513625" alt="stack stats"  align="right" />&nbsp;
+
 
 <!-- Send me mail with job offer @[qwercy142](mailto:qwercy142@gmail.com) -->
 <!---
