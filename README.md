@@ -2,7 +2,7 @@
 
 ## 🛠 &nbsp; Tech Stack
 
-<img alt="stats" src="https://275f-83-29-118-93.ngrok.io/stats?id=14513625" align="right"/>
+<!-- <img alt="stats" src="https://275f-83-29-118-93.ngrok.io/stats?id=14513625" align="right"/> -->
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
