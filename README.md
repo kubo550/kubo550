@@ -2,9 +2,8 @@
 
 ## 🛠 &nbsp; Tech Stack
 
+
 <img src="https://stack-stats.herokuapp.com/stats?id=14513625" alt="stack stats" />&nbsp;
-
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
