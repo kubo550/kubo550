@@ -46,8 +46,9 @@
     <a href="https://www.messenger.com/t/100005543894347"><img src="https://img.icons8.com/bubbles/50/000000/facebook-messenger.png"  alt="Messenger"/></a>
 </p>
 
-<img src="https://stack-stats.herokuapp.com/stats?id=14513625" alt="plz reload the page"  align="right" />&nbsp;
-
+<a href="https://stackoverflow.com/users/14513625/jakub-kurdziel" target="_blank">
+    <img src="https://stack-stats.herokuapp.com/stats?id=14513625" alt="plz reload the page"  align="right" />&nbsp;
+</a>
 
 <!-- Send me mail with job offer @[qwercy142](mailto:qwercy142@gmail.com) -->
 <!---
