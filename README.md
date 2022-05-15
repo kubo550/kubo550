@@ -50,6 +50,8 @@
     <img src="https://stack-stats.herokuapp.com/stats?id=14513625" alt="plz reload the page"  align="right" />&nbsp;
 </a>
 
+![oasijdlk](https://stack-stats.herokuapp.com/stats?id=9816472)
+
 <!-- Send me mail with job offer @[qwercy142](mailto:qwercy142@gmail.com) -->
 <!---
 
