@@ -17,7 +17,7 @@
 </p>
 
 <a href="https://stackoverflow.com/users/14513625/jakub-kurdziel" target="_blank">
-    <img src="https://stack-stats.herokuapp.com/stats?id=14513625" alt="plz reload the page"  align="right" />&nbsp;
+    <img src="https://stack-stats.herokuapp.com/stats?id=14513625" alt="plz reload the page :("  align="right" />&nbsp;
 </a>
 
 
