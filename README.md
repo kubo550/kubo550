@@ -37,7 +37,6 @@
 const Jakub_Kurdziel = new Developer({ city: "Cracow | Remote" , time: "ASAP" });
 ```
 
-
  - 🦊 [Gitlab](https://gitlab.com/jkurdziel)
  - 🛠️ [Stack Overflow](https://stackoverflow.com/users/14513625/jakub-kurdziel)
  - 💻 [Exercism](https://exercism.io/profiles/kubo550)
