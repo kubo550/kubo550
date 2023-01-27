@@ -20,7 +20,7 @@
     <img src="https://stack-stats.herokuapp.com/stats?id=14513625" alt="plz reload the page :("  align="right" />&nbsp;
 </a>
 
-Contact:  <a href="mailto:jkurdziel.kontakt@gmail.com">jkurdziel.kontakt@gmail.com</a>
+Contact:  <a href="mailto:qwercy142@gmail.com">qwercy142@gmail.com</a>
 
 <!-- Send me mail with job offer @[qwercy142](mailto:qwercy142@gmail.com) -->
 <!---
