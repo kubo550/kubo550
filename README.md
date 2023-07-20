@@ -18,7 +18,7 @@
 </p>
 
 <a href="https://stackoverflow.com/users/14513625/jakub-kurdziel" target="_blank">
-    <img src="https://rmynaenogexxzwoqmswd.supabase.co/functions/v1/stack-stats?id=14513625&withImage=false" alt="plz reload the page :("  align="right" />
+    <img src="https://rmynaenogexxzwoqmswd.supabase.co/functions/v1/stack-stats?id=14513625&withImage=true" alt="plz reload the page :("  align="right" />
 </a>
 
 Contact:  <a href="mailto:qwercy142@gmail.com">qwercy142@gmail.com</a>
