@@ -21,8 +21,6 @@
     <img src="https://rmynaenogexxzwoqmswd.supabase.co/functions/v1/stack-stats?id=14513625&withImage=true" alt="plz reload the page :("  align="right" />
 </a>
 
-Contact:  <a href="mailto:qwercy142@gmail.com">qwercy142@gmail.com</a>
-
 <!-- Send me mail with job offer @[qwercy142](mailto:qwercy142@gmail.com) -->
 <!---
 
