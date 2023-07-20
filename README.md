@@ -14,9 +14,7 @@
     <a href="https://www.instagram.com/__kurdziel/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
     <a href="https://www.messenger.com/t/100005543894347"><img src="https://img.icons8.com/bubbles/50/000000/facebook-messenger.png"  alt="Messenger"/></a>
 
-   <a href="https://stackoverflow.com/users/14513625/jakub-kurdziel" target="_blank">
-    <img src="https://rmynaenogexxzwoqmswd.supabase.co/functions/v1/stack-stats?id=14513625&withImage=false" alt="plz reload the page :("  align="right" />
-</a>
+   
 </p>
 
 
