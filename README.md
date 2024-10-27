@@ -2,7 +2,6 @@
     <img src="https://rmynaenogexxzwoqmswd.supabase.co/functions/v1/stack-stats?id=14513625&withImage=true" alt="plz reload the page :("  align="right" />
 </a>
 
-
 <img align="center" src="https://firebasestorage.googleapis.com/v0/b/statesusak.appspot.com/o/line.png?alt=media" alt="horizontal line - star png from pngtree.com" />  
 
 
